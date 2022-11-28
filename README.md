@@ -1,9 +1,9 @@
 # Mini-Project--Application-of-NN
 
 
-(Expected the following details in the report )
+
 ## Project Title:
-Gender Classification
+## <p align="center">Gender Classification</p>
 ## Project Description 
 ## Algorithm:
 ## Program:
