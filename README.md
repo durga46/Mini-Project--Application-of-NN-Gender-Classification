@@ -30,7 +30,7 @@ print("Gender : ",result['gender'])
 
 ```
 ## Output:
-![d](https://user-images.githubusercontent.com/75235704/204224961-a94437f9-8ab0-40ab-b67f-97418f1fea93.png)
+![d](https://user-images.githubusercontent.com/75235704/204225271-af386cc1-b902-477e-92ab-802a10bed85d.png)
 
 
 ## Advantage :
