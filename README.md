@@ -4,10 +4,22 @@
 
 ## Project Title:
 ## <p align="center">Gender Classification</p>
-## Project Description 
+
 ## Algorithm:
+1.Install deepface
+
+2.Import necessary packages
+
+3.Read the image
+
+4.Analyze the gender using deepface
 ## Program:
 ```py
+/*
+Program to implement 
+Developed by   :DurgaDevi P
+RegisterNumber :  212220230015
+*/
 #install deepface
 pip install deepface
 
@@ -33,5 +45,6 @@ print("Gender : ",result['gender'])
 ![d](https://user-images.githubusercontent.com/75235704/204225271-af386cc1-b902-477e-92ab-802a10bed85d.png)
 
 
-## Advantage :
+
 ## Result:
+ Thus the program for gender classification is implemented successfully.
