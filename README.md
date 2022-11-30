@@ -1,5 +1,4 @@
-# Mini-Project--Application-of-NN
-
+# <p align="center"> Mini-Project--Application-of-NN</p>
 
 
 ## Project Title:
